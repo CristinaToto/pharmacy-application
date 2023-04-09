@@ -27,7 +27,6 @@ The program can be used as a basic template for developing more complex pharmacy
 <h2 id="main-features">2. Main Features</h2>
 
 <h3>Medicine</h3>
-</br>
 • This code defines a class called Medicine that represents a medicine. The class has instance variables that store information about the medicine, such as its name, price, production company, expiration date, and quantity. The class also has methods to set and get the values of these instance variables, as well as to verify the expiration date of the medicine.
 
 •The class has two constructors: one that takes several arguments to set the instance variables, and another that takes only the name and quantity of the medicine. The class also has a method to set the unit of the medicine based on the unit code, and a toString() method that returns a formatted string representation of the medicine object..</br>
