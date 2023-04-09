@@ -25,3 +25,10 @@ The program uses object-oriented programming principles to create classes for me
 The program can be used as a basic template for developing more complex pharmacy management systems or as a standalone tool for managing small pharmacies.
 
 <h2 id="main-features">2. Main Features</h2>
+
+
+<h2 id="built-with">3. Built With</h2>
+</br>
+<b>Back end:</b>
+</br>
+•	Java
