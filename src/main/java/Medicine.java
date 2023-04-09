@@ -1,9 +1,7 @@
-package ro.cristina.src.Pharmacy;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-import static ro.cristina.src.Pharmacy.Pharmacy.THIS_OPTION_IS_NOT_VALID;
+import static Pharmacy.THIS_OPTION_IS_NOT_VALID;
 
 public class Medicine {
 

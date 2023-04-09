@@ -1,5 +1,3 @@
-package ro.cristina.src.Pharmacy;
-
 import java.util.HashMap;
 import java.util.List;
 

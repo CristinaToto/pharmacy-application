@@ -1,5 +1,3 @@
-package ro.cristina.src.Pharmacy;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
