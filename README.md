@@ -25,7 +25,7 @@ The program uses object-oriented programming principles to create classes for me
 The program can be used as a basic template for developing more complex pharmacy management systems or as a standalone tool for managing small pharmacies.
 
 <h2 id="main-features">2. Main Features</h2>
-</br>
+
 <h3>Medicine</h3>
 </br>
 • This code defines a class called Medicine that represents a medicine. The class has instance variables that store information about the medicine, such as its name, price, production company, expiration date, and quantity. The class also has methods to set and get the values of these instance variables, as well as to verify the expiration date of the medicine.
