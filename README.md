@@ -44,5 +44,5 @@ The program can be used as a basic template for developing more complex pharmacy
 <h2 id="built-with">3. Built With</h2>
 
 <b>Back end:</b>
-</br>
+
 •Java Core
