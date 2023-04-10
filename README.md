@@ -36,14 +36,13 @@ The program can be used as a basic template for developing more complex pharmacy
 
 •The class also contains several methods, including a method to set the pharmacy's schedule based on user input, a method to set the pharmacy type (online, in-store, or hybrid) based on user input, a method to check whether the pharmacy has a contract with the CAS (Romanian health insurance), a method to set the payment method (card or cash), a method to check whether customers can receive discounts with a purchasing card, a method to place an order for medicine, and a method to add new medicine to the pharmacy's stock.
 
-•The class also has a method to validate whether a given email address is in a valid format and another method to check whether a given string consists of only digits. Additionally, there are several helper methods to fulfill an order and apply discounts to medicine. Overall, this class represents a model of a pharmacy and provides methods to interact with the pharmacy's data, including its schedule, type, stock, and orders. 
+•The class also has a method to validate whether a given email address is in a valid format and another method to check whether a given string consists of only digits. Additionally, there are several helper methods to fulfill an order and apply discounts to medicine. Overall, this class represents a model of a pharmacy and provides methods to interact with the pharmacy's data, including its schedule, type, stock, and orders.</br>
 
 <h3>Brand:</h3>
-
-•This Java code represents a class called "Brand", which is used in a pharmacy system. The class contains several methods that allow users to perform various tasks, such as displaying the total number of employees in all pharmacies, showing the available medicine in a specific city, finding pharmacies that accept card payments, displaying non-stop pharmacies, and showing the email and phone number of online and hybrid pharmacies.
+•This Java code represents a class called "Brand", which is used in a pharmacy system. The class contains several methods that allow users to perform various tasks, such as displaying the total number of employees in all pharmacies, showing the available medicine in a specific city, finding pharmacies that accept card payments, displaying non-stop pharmacies, and showing the email and phone number of online and hybrid pharmacies.</br>
 
 <h2 id="built-with">3. Built With</h2>
 </br>
 <b>Back end:</b>
 </br>
-•	Java
+•Java Core
