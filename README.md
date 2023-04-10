@@ -42,7 +42,7 @@ The program can be used as a basic template for developing more complex pharmacy
 •This Java code represents a class called "Brand", which is used in a pharmacy system. The class contains several methods that allow users to perform various tasks, such as displaying the total number of employees in all pharmacies, showing the available medicine in a specific city, finding pharmacies that accept card payments, displaying non-stop pharmacies, and showing the email and phone number of online and hybrid pharmacies.</br>
 
 <h2 id="built-with">3. Built With</h2>
-</br>
+
 <b>Back end:</b>
 </br>
 •Java Core
